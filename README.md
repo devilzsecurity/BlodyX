@@ -1,5 +1,5 @@
 # BlodyX-
-BlodyX Rootkit is an LD_PRELOAD-based rootkit that hides files, establishes a reverse shell, and prevents debugging. It intercepts system calls to hide the rootkit from detection tools like ls, stat, and open
+BlodyX Rootkit is an LD_PRELOAD-based rootkit that hides files, establishes a reverse shell, and prevents debugging. It intercepts system calls to hide the rootkit from detection tools like ls, stat, and open , unlink , unlinkat, rename
 
 
 
@@ -16,4 +16,4 @@ File Hiding: Prevents access to files such as /etc/ld.so.preload, making it hard
 
 Stealth: Filters out the rootkit from being listed in directories (via readdir) and prevents file access through open, stat, lstat, etc. This ensures it remains hidden from regular system operations.
 
-Prevent lsof Detection: A future update will add protection against being listed by lsof, making the rootkit harder to detect by commonly used tools.
+Can't be easily remoove also lol XD
