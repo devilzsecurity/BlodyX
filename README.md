@@ -2,8 +2,8 @@
 BlodyX Rootkit is an LD_PRELOAD-based rootkit that hides files, establishes a reverse shell, and prevents debugging. It intercepts system calls to hide the rootkit from detection tools like ls, stat, and open , unlink , unlinkat, rename
 
 
+![DEVIL](https://github.com/user-attachments/assets/94592314-b758-4236-b128-13f5b4481e76)
 
-            ![DEVIL](https://github.com/user-attachments/assets/b1d864ac-1d6a-462c-978d-77f39f404599)
                
 
 Functions of these rootkit:
