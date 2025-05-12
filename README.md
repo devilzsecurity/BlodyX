@@ -3,8 +3,8 @@ BlodyX Rootkit is an LD_PRELOAD-based rootkit that hides files, establishes a re
 
 
 
-![3](https://github.com/user-attachments/assets/5377d57c-e2fe-404b-b920-95b4ae20742d)
-
+                 ![DEVIL](https://github.com/user-attachments/assets/d8fab0e4-acbc-440d-93d8-ba8e53f7975b)
+                           
 
 Functions of these rootkit:
 
